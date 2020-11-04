@@ -1,0 +1,9 @@
+C:\Users\T-Gamer\source\repos\MaquinaCafe\bin\Debug\MaquinaCafe.exe.config
+C:\Users\T-Gamer\source\repos\MaquinaCafe\bin\Debug\MaquinaCafe.exe
+C:\Users\T-Gamer\source\repos\MaquinaCafe\bin\Debug\MaquinaCafe.pdb
+C:\Users\T-Gamer\source\repos\MaquinaCafe\obj\Debug\MaquinaCafe.Form1.resources
+C:\Users\T-Gamer\source\repos\MaquinaCafe\obj\Debug\MaquinaCafe.Properties.Resources.resources
+C:\Users\T-Gamer\source\repos\MaquinaCafe\obj\Debug\MaquinaCafe.csproj.GenerateResource.cache
+C:\Users\T-Gamer\source\repos\MaquinaCafe\obj\Debug\MaquinaCafe.csproj.CoreCompileInputs.cache
+C:\Users\T-Gamer\source\repos\MaquinaCafe\obj\Debug\MaquinaCafe.exe
+C:\Users\T-Gamer\source\repos\MaquinaCafe\obj\Debug\MaquinaCafe.pdb

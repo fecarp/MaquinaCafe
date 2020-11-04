@@ -1,0 +1,10 @@
+C:\Users\T-Gamer\source\repos\MaquinaCafe\bin\Release\MaquinaCafe.exe.config
+C:\Users\T-Gamer\source\repos\MaquinaCafe\bin\Release\MaquinaCafe.exe
+C:\Users\T-Gamer\source\repos\MaquinaCafe\bin\Release\MaquinaCafe.pdb
+C:\Users\T-Gamer\source\repos\MaquinaCafe\obj\Release\MaquinaCafe.csprojAssemblyReference.cache
+C:\Users\T-Gamer\source\repos\MaquinaCafe\obj\Release\MaquinaCafe.Form1.resources
+C:\Users\T-Gamer\source\repos\MaquinaCafe\obj\Release\MaquinaCafe.Properties.Resources.resources
+C:\Users\T-Gamer\source\repos\MaquinaCafe\obj\Release\MaquinaCafe.csproj.GenerateResource.cache
+C:\Users\T-Gamer\source\repos\MaquinaCafe\obj\Release\MaquinaCafe.csproj.CoreCompileInputs.cache
+C:\Users\T-Gamer\source\repos\MaquinaCafe\obj\Release\MaquinaCafe.exe
+C:\Users\T-Gamer\source\repos\MaquinaCafe\obj\Release\MaquinaCafe.pdb
